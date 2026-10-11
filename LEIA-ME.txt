@@ -1,0 +1,13 @@
+# Caixa do Sushi — Guilherme Gabriel
+
+Registre compras e vendas da operação e confira o resultado por mês.
+
+## Como usar
+1. Extraia o ZIP e abra `index.html` no navegador.
+2. Registre cada compra como **Compra / gasto** (por exemplo, salmão e arroz) e cada venda como **Venda / entrada**.
+3. Informe data, descrição e valor total. O resumo calcula vendas menos compras e indica lucro, prejuízo ou empate.
+4. Use **Resumo dos meses** para comparar o resultado mensal. Você também pode editar/excluir lançamentos e exportar o mês em CSV.
+
+O resultado considera apenas os valores registrados no sistema. Os dados ficam salvos neste navegador e dispositivo.
+
+Feito por Guilherme Gabriel.
